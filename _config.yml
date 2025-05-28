@@ -13,7 +13,7 @@ title                    : "Yangzhuang Li / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yangzhuang Li"
 description              : &description "a P.h.D candidate from University of Notre Dame"
-url                      : https://CatherineWa.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://catherinewa.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "CatherineWa/CatherineWa.github.io"
 
@@ -22,7 +22,7 @@ repository               : "CatherineWa/CatherineWa.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   name             : "Yuangzhuang Li"
   pronouns         : "he/his"  
   bio              : "To be a force for good in the world"
